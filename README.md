@@ -18,9 +18,9 @@ MyBatis
 Spring Data JPA
 ---------------
 * [JPA Annotations Reference](https://www.datanucleus.org/products/accessplatform/jpa/annotations.html)
-* [Query Methods](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods)
 * [org.springframework.data](https://docs.spring.io/spring-data/commons/docs/current/api/index.html?org/springframework/data)
 * [org.springframework.data.jpa]( https://docs.spring.io/spring-data/jpa/docs/current/api/)
+* [Query Methods](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods)
 * [Configure JPA properties](https://docs.spring.io/spring-boot/docs/1.1.0.M1/reference/html/howto-data-access.html)
 * [JPA - ORM Components](https://www.tutorialspoint.com/jpa/jpa_orm_components.htm)
 * [JPQL Language Reference](https://docs.oracle.com/cd/E11035_01/kodo41/full/html/ejb3_langref.html)
