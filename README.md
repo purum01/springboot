@@ -40,6 +40,7 @@ Talend API Tester
 ---------------
 * [Chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions?hl=ko)
 * [Talend API Tester](https://chrome.google.com/webstore/search/talend%20api%20tester?hl=ko)
+* [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=ko)
 
 Swagger
 -------
