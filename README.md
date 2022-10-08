@@ -1,4 +1,4 @@
-# Spring-Boot_ref
+# Spring Boot 참조 사이트
 
 개발환경 구축
 ------------
