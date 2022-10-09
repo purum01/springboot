@@ -49,7 +49,7 @@ Talend API Tester
 
 Swagger
 -------
-* [Swagger](https://swagger.io/)
+* [Swagger](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
 
 Thymeleaf
 ---------
