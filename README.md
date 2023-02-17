@@ -21,7 +21,7 @@ Spring Data JPA
 * [JPA Annotations Reference](https://www.datanucleus.org/products/accessplatform/jpa/annotations.html)
 * [org.springframework.data](https://docs.spring.io/spring-data/commons/docs/current/api/index.html?org/springframework/data)
 * [org.springframework.data.jpa]( https://docs.spring.io/spring-data/jpa/docs/current/api/)
-* [Repository<T,ID>](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/repository/Repository.html
+* [Repository<T,ID>](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/repository/Repository.html)
 * [CrudRepository<T,ID>](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/repository/CrudRepository.html)
 * [PagingAndSortingRepository<T,ID>](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/repository/PagingAndSortingRepository.html)
 * [JpaRepository<T,ID>](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)
