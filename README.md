@@ -6,6 +6,7 @@
 * [Tomcat](https://tomcat.apache.org/)
 * [H2 DB](https://www.h2database.com/html/main.html)
 * [Spring Tools 4 for Eclipse](https://spring.io/tools)
+* [Maven Repository](https://mvnrepository.com/)
 
 MyBatis
 -------
