@@ -34,6 +34,7 @@ QueryDSL
 * [Querydsl - Reference Documentation](http://querydsl.com/static/querydsl/3.1.2.BUILD/reference/html/index.html)
 * [QuerydslPreciateExecutor](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/querydsl/QuerydslPredicateExecutor.html)
 * [Querydsl API](http://querydsl.com/static/querydsl/5.0.0/apidocs/)
+* [StringPath](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/types/dsl/StringPath.html)
 * [JPAQuery](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQuery.html)
 * [JPAQueryFactory](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQueryFactory.html)
 * [QuerydslRepositorySupport](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/QuerydslRepositorySupport.html)
