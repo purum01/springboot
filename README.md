@@ -37,8 +37,8 @@ QueryDSL
 * [StringPath](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/types/dsl/StringPath.html)
 * [NumberPath](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/types/dsl/NumberPath.html)
 * [BooleanBuilder](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/BooleanBuilder.html)
-* [JPAQuery](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQuery.html)
 * [JPAQueryFactory](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQueryFactory.html)
+* [JPAQuery](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQuery.html)
 * [QuerydslRepositorySupport](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/QuerydslRepositorySupport.html)
 
 
