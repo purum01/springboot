@@ -28,7 +28,11 @@ Spring Data JPA
 * [JpaRepository<T,ID>](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)
 * [Query Methods](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods)
 * [JPQL Language Reference](https://docs.oracle.com/cd/E11035_01/kodo41/full/html/ejb3_langref.html)
-* [com.querydsl](http://querydsl.com/static/querydsl/5.0.0/apidocs/)
+
+QueryDSL
+---------------
+* [Querydsl - Reference Documentation](http://querydsl.com/static/querydsl/3.1.2.BUILD/reference/html/index.html)
+* [Querydsl API](http://querydsl.com/static/querydsl/5.0.0/apidocs/)
 * [JPAQuery](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQuery.html)
 * [JPAQueryFactory](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQueryFactory.html)
 * [QuerydslRepositorySupport](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/QuerydslRepositorySupport.html)
