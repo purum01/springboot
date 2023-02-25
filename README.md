@@ -41,14 +41,12 @@ QueryDSL
 * [JPAQuery](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQuery.html)
 * [QuerydslRepositorySupport](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/QuerydslRepositorySupport.html)
 
-
 LOGBACK
 -------
 * [logback](https://logback.qos.ch/manual/introduction.html)
 * [Configuration](https://logback.qos.ch/manual/configuration.html)
 * [Appender](https://logback.qos.ch/manual/appenders.html)
 * [PatternLayout](https://logback.qos.ch/manual/layouts.html#conversionWord)
-
 * [base.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/base.xml)
 * [defaults.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/defaults.xml)
 * [console-appender.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/console-appender.xml)
