@@ -52,7 +52,7 @@ LOGBACK
 * [console-appender.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/console-appender.xml)
 * [file-appender.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/file-appender.xml)
 
-Talend API Tester
+Chrome 확장 프로그램
 ---------------
 * [Chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions?hl=ko)
 * [Talend API Tester](https://chrome.google.com/webstore/search/talend%20api%20tester?hl=ko)
