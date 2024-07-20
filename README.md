@@ -2,7 +2,7 @@
 
 개발환경 구축
 ------------
-* [Open JDK](https://www.azul.com/downloads/?package=jdk)
+* [JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 * [Tomcat](https://tomcat.apache.org/)
 * [H2 DB](https://www.h2database.com/html/main.html)
 * [Spring Tools 4 for Eclipse](https://spring.io/tools)
