@@ -27,7 +27,7 @@ Spring Data JPA
 * [CrudRepository<T,ID>](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/repository/CrudRepository.html)
 * [PagingAndSortingRepository<T,ID>](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/repository/PagingAndSortingRepository.html)
 * [JpaRepository<T,ID>](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)
-* [Query Methods](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods)
+* [Query Methods](https://docs.spring.io/spring-data/jpa/reference/repositories/query-keywords-reference.html)
 * [JPQL Language Reference](https://docs.oracle.com/cd/E11035_01/kodo41/full/html/ejb3_langref.html)
 
 QueryDSL
