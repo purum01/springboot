@@ -12,6 +12,8 @@ import org.springframework.data.repository.query.Param;
 import com.edu.entity.BoardEntity;
 
 public interface BoardRepository extends JpaRepository<BoardEntity, Long> {
+
+	/** Query Method  **/
 	List<BoardEntity> findByWriter(String writer);
 
 	List<BoardEntity> findByTitleContaining(String title);
