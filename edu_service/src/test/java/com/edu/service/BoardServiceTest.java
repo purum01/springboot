@@ -16,7 +16,6 @@ import com.edu.entity.Board;
 import com.edu.repository.BoardRepository;
 
 @SpringBootTest
-
 public class BoardServiceTest {
 
 	@Autowired

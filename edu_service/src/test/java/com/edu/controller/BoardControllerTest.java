@@ -40,7 +40,10 @@ public class BoardControllerTest {
 	public void insertBoardTest() throws Exception {
 		BoardDto boardDto = this.saveBoardDto();
 		String content = objectMapper.writeValueAsString(boardDto);
-		mockMvc.perform(post("/board/insert").contentType(MediaType.APPLICATION_JSON).content(content)).andDo(print())
+		mockMvc.perform(post("/board/insert")
+				.contentType(MediaType.APPLICATION_JSON)
+				.content(content))
+		        .andDo(print())
 				.andExpect(status().isOk());
 	}
 
@@ -52,27 +55,36 @@ public class BoardControllerTest {
 		boardDto.setTitle("Spring");
 		boardDto.setContent("MVC 기반의 웹 프레임워크이다");
 
-		mockMvc.perform(put("/board/update").contentType(MediaType.APPLICATION_JSON)
-				.content(objectMapper.writeValueAsString(boardDto))).andExpect(status().isOk()).andDo(print());
+		mockMvc.perform(put("/board/update")
+				.contentType(MediaType.APPLICATION_JSON)
+				.content(objectMapper.writeValueAsString(boardDto)))
+		        .andExpect(status().isOk())
+		        .andDo(print());
 	}
 
 	@Test
 	@DisplayName("게시글 삭제 테스트")
 	public void deleteBoardTest() throws Exception {
-		mockMvc.perform(delete("/board/delete/3")).andExpect(status().isOk()).andDo(print());
+		mockMvc.perform(delete("/board/delete/3"))
+		       .andExpect(status().isOk())
+		       .andDo(print());
 	}
 
 	@Test
 	@DisplayName("특정 게시글 조회 테스트")
 	public void getBoardTest() throws Exception {
-		mockMvc.perform(get("/board/get/1")).andExpect(status().isOk()).andDo(print());
+		mockMvc.perform(get("/board/get/2"))
+		       .andExpect(status().isOk())
+		       .andDo(print());
 
 	}
 
 	@Test
 	@DisplayName("모든 게시글 조회 테스트")
 	public void getBoardListTest() throws Exception {
-		mockMvc.perform(get("/board/list")).andExpect(status().isOk()).andDo(print());
+		mockMvc.perform(get("/board/list"))
+		       .andExpect(status().isOk())
+		       .andDo(print());
 
 	}
 }
