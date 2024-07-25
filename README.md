@@ -58,6 +58,7 @@ Chrome 확장 프로그램
 * [Chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions?hl=ko)
 * [Talend API Tester](https://chrome.google.com/webstore/search/talend%20api%20tester?hl=ko)
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=ko)
+* [JSON 데이터 예제](http://www.krei.re.kr:18181/chart/main_chart/index/kind/W/sdate/2024-01-01/edate/2024-04-23)
 
 Swagger
 -------
