@@ -30,17 +30,6 @@ Spring Data JPA
 * [Query Methods](https://docs.spring.io/spring-data/jpa/reference/repositories/query-keywords-reference.html)
 * [JPQL Language Reference](https://docs.oracle.com/cd/E11035_01/kodo41/full/html/ejb3_langref.html)
 
-QueryDSL
----------------
-* [Querydsl - Reference Documentation](http://querydsl.com/static/querydsl/3.1.2.BUILD/reference/html/index.html)
-* [QuerydslPreciateExecutor](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/querydsl/QuerydslPredicateExecutor.html)
-* [Querydsl API](http://querydsl.com/static/querydsl/5.0.0/apidocs/)
-* [StringPath](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/types/dsl/StringPath.html)
-* [NumberPath](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/types/dsl/NumberPath.html)
-* [BooleanBuilder](http://querydsl.com/static/querydsl/5.0.0/apidocs/com/querydsl/core/BooleanBuilder.html)
-* [JPAQueryFactory](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQueryFactory.html)
-* [JPAQuery](http://querydsl.com/static/querydsl/5.0.0/apidocs/index.html?com/querydsl/jpa/impl/JPAQuery.html)
-* [QuerydslRepositorySupport](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/support/QuerydslRepositorySupport.html)
 
 LOGBACK
 -------
@@ -62,7 +51,7 @@ Chrome 확장 프로그램
 
 Swagger
 -------
-* [Swagger](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
+* [Swagger](https://swagger.io/docs/specification/about/)
 
 Thymeleaf
 ---------
