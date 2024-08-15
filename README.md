@@ -51,7 +51,8 @@ Chrome 확장 프로그램
 
 Swagger
 -------
-* [Swagger](https://swagger.io/docs/specification/about/)
+* [Swagger 공삭 사이트](https://swagger.io/)
+* [Swagger Docs](https://swagger.io/docs/specification/about/)
 
 Thymeleaf
 ---------
