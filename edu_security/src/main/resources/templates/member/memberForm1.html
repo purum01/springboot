@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>회원 가입</title>
+<style type="text/css">
+table {
+	width: 600px;
+	border: 1px solid black;
+}
+
+.rh {
+	background-color: orange;
+	width: 80px;
+}
+
+th, td {
+	border: 1px solid black;
+}
+
+input[type="text"], input[type="password"] {
+	width: 100%;
+	box-sizing: border-box; /* padding and border are included in the width */
+}
+
+</style>
+</head>
+<body th:align="center">
+	<h1>회원 가입</h1>
+	<form action="/member/new" method="post" >
+		<table th:align="center">
+			<tr>
+				<td class="rh">이름</td>
+				<td><input type="text" name="name"/></td>
+			</tr>
+			<tr>
+				<td class="rh">메일주소</td>
+				<td><input type="text" name="email" /></td>
+			</tr>
+			<tr>
+				<td class="rh">비밀번호</td>
+				<td><input type="password" name="password" /></td>
+			</tr>
+			<tr>
+				<td class="rh">주소</td>
+				<td><input type="text"  name="address"/></td>
+			</tr>
+			<tr>
+				<td colspan="2"><input type="submit" value="회원 가입" /></td>
+			</tr>
+		</table>
+		
+	</form>
+</body>
+</html>
