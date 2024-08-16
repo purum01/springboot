@@ -69,3 +69,9 @@ Spring Security
 * [org.springframework.security.core.userdetails](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/core/userdetails/package-summary.html)
 * [In Memory](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/in-memory.html)
 * [암호화](https://d2.naver.com/helloworld/318732)
+
+OAuth
+----------------
+* [구글 OAuth 서비스 등록](https://console.cloud.google.com/apis)
+
+
