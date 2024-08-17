@@ -75,3 +75,7 @@ OAuth
 * [구글 OAuth 서비스 등록](https://console.cloud.google.com/apis)
 
 
+JWT
+----------------
+* [JWT 디코딩/검증](https://jwt.io/)
+
