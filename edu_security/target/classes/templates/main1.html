@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>main</title>
+</head>
+<body>
+	<h1>Main Page</h1>
+
+	<a href="/member/new">회원 가입 </a>
+	<br>
+	<a href="/member/login">로그인 </a>
+	<br>
+
+	<form action="/member/logout" method="post">
+		<input type="hidden" th:name="${_csrf.parameterName}"
+			th:value="${_csrf.token}" /> <input type="submit" value="로그아웃" />
+	</form>
+
+</body>
+</html>
