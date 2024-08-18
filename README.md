@@ -31,17 +31,6 @@ Spring Data JPA
 * [JPQL Language Reference](https://docs.oracle.com/cd/E11035_01/kodo41/full/html/ejb3_langref.html)
 
 
-LOGBACK
--------
-* [logback](https://logback.qos.ch/manual/introduction.html)
-* [Configuration](https://logback.qos.ch/manual/configuration.html)
-* [Appender](https://logback.qos.ch/manual/appenders.html)
-* [PatternLayout](https://logback.qos.ch/manual/layouts.html#conversionWord)
-* [base.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/base.xml)
-* [defaults.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/defaults.xml)
-* [console-appender.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/console-appender.xml)
-* [file-appender.xml](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/org/springframework/boot/logging/logback/file-appender.xml)
-
 Chrome 확장 프로그램
 ---------------
 * [Chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions?hl=ko)
