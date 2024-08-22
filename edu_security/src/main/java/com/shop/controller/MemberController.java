@@ -22,13 +22,13 @@ public class MemberController {
 
 	@GetMapping("/new")
 	public String memberForm(MemberFormDto memberFormDto) {
-		System.out.println("=========> new Get");
+		
 		return "/member/memberForm";
 	}
 
 	@PostMapping("/new")
 	public String memberSave(@Valid MemberFormDto memberFormDto, BindingResult br, Model model) {
-		System.out.println("=========>"+memberFormDto);
+		
 		if (br.hasErrors()) {
 			return "/member/memberForm";
 		}
