@@ -23,7 +23,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.edu.entity.BoardEntity;
 
-@ExtendWith(SpringExtension.class)
 @SpringBootTest
 public class BoardRepositoryTest {
 	@Autowired
