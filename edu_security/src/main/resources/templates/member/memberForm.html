@@ -34,7 +34,8 @@ input[type="text"], input[type="password"] {
 			<tr>
 				<td class="rh">이름</td>
 				<td><input type="text" th:field="*{name}" />
-					<p th:if="${#fields.hasErrors('name')}" th:errors="*{name}"></p></td>
+					<p th:if="${#fields.hasErrors('name')}" th:errors="*{name}"></p>
+				</td>
 			</tr>
 			<tr>
 				<td class="rh">메일주소</td>
