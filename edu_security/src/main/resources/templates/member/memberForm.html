@@ -30,6 +30,7 @@ input[type="text"], input[type="password"] {
 	<p th:text="${errorMessage}"></p>
 	<!-- 에러 메시지 표시 -->
 	<form action="/member/new" method="post" th:object="${memberFormDto}">
+		<input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}" /> 
 		<table th:align="center">
 			<tr>
 				<td class="rh">이름</td>
@@ -59,7 +60,7 @@ input[type="text"], input[type="password"] {
 				<td colspan="2"><input type="submit" value="회원 가입" /></td>
 			</tr>
 		</table>
-		<input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}" />
+		
 
 	</form>
 
