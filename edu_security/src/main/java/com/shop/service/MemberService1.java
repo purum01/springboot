@@ -15,7 +15,7 @@ import lombok.RequiredArgsConstructor;
 @Service
 @Transactional
 @RequiredArgsConstructor
-public class MemberService1 {
+public class MemberService{
 
     private final MemberRepository memberRepository;
     @Autowired
