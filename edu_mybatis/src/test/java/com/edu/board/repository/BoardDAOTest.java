@@ -13,7 +13,6 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 import com.edu.board.vo.BoardVO;
 
-@ExtendWith(SpringExtension.class)
 @SpringBootTest
 @ContextConfiguration(classes = TestConfig.class)
 public class BoardDAOTest {
